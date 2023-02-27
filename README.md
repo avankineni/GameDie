@@ -1,3 +1,6 @@
+[![CI](https://github.com/avankineni/GameDie/actions/workflows/work.yml/badge.svg)](https://github.com/avankineni/GameDie/actions/workflows/work.yml)
+
+
 # GameDie
 
 This repository provides a class that represents a game die, such as the
